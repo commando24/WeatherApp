@@ -1,0 +1,26 @@
+PODS:
+  - Alamofire (5.4.0)
+  - HGPlaceholders (0.5.0)
+  - Kingfisher (5.15.8):
+    - Kingfisher/Core (= 5.15.8)
+  - Kingfisher/Core (5.15.8)
+
+DEPENDENCIES:
+  - Alamofire (~> 5.2)
+  - HGPlaceholders
+  - Kingfisher
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - HGPlaceholders
+    - Kingfisher
+
+SPEC CHECKSUMS:
+  Alamofire: 3b6a534a3df22db367e4dedeeca73d1ddfcf0e2f
+  HGPlaceholders: cbf8caed8360fc2ab5e8a4610cce61f76fbd2c37
+  Kingfisher: a3c03d702433fa6cfedabb2bddbe076fb8f2e902
+
+PODFILE CHECKSUM: 801fbdebd846cd4ab8bb75133a7490fcc7a9a276
+
+COCOAPODS: 1.10.0
